@@ -5,19 +5,19 @@
 -->
 ### 🎓 Web Application Development Student (DAWe) at ITB Barcelona.
 
-I am passionate about programming and creating efficient solutions. Currently, m'estic formant in the cycle from DAWe to the Institut tecnològic of Barcelona.
+I am passionate about programming and creating efficient solutions. Currently, I'm studing in the course DAWe in the Institut tecnològic of Barcelona.
 
 The main objective is to apply the acquired knowledge to build solid and innovative projects.
 
 #### 🛠️ My Tech Stack (Skills)
 
 These are the technologies, languages, and tools I have learned and work with regularly:
-* **Kotlin** - Main languaje in the course
-* <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">  **Python**
-* **HTML5 & CSS3**
+* <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="15"> **Kotlin** - Main languaje in the course
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20">  **Python**
+* <img src="https://diccionarioweb.com/wp-content/uploads/curso-de-html-y-css-gratuito.png" width="60">  **HTML5 & CSS3**
 
 #### 🛠️ DataBases
 * **SQL** (MySQL, PostgreSQL)
 
 
-Thanks for stopping by!
+Thanks for stopping by! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20"> 
