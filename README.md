@@ -2,8 +2,10 @@
 
 <!--
 **MartaLucea/MartaLucea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning in the ITB
+### 🎓 Estudiant de Desenvolupament d'Aplicacions Web (DAWe) a l'ITB Barcelona.
+
+Sóc un apassionat de la programació i la creació de solucions eficients. Actualment, m'estic formant en el cicle de DAWe a l'Institut Tecnològic de Barcelona.
+
+El meu objectiu és aplicar els coneixements adquirits per construir projectes sòlids i innovadors.
 
