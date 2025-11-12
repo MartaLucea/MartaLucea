@@ -3,9 +3,21 @@
 <!--
 **MartaLucea/MartaLucea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 🎓 Estudiant de Desenvolupament d'Aplicacions Web (DAWe) a l'ITB Barcelona.
+### 🎓 Web Application Development Student (DAWe) at ITB Barcelona.
 
-Sóc un apassionat de la programació i la creació de solucions eficients. Actualment, m'estic formant en el cicle de DAWe a l'Institut Tecnològic de Barcelona.
+I am passionate about programming and creating efficient solutions. Currently, m'estic formant in the cycle from DAWe to the Institut tecnològic of Barcelona.
 
-El meu objectiu és aplicar els coneixements adquirits per construir projectes sòlids i innovadors.
+The main objective is to apply the acquired knowledge to build solid and innovative projects.
 
+#### 🛠️ My Tech Stack (Skills)
+
+These are the technologies, languages, and tools I have learned and work with regularly:
+* **Kotlin** - Main languaje in the course
+* <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50">  **Python**
+* **HTML5 & CSS3**
+
+#### 🛠️ DataBases
+* **SQL** (MySQL, PostgreSQL)
+
+
+Thanks for stopping by!
