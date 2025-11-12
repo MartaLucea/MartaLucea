@@ -18,7 +18,7 @@ These are the technologies, languages, and tools I have learned and work with re
 * <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20">  **Python**
 * <img src="https://diccionarioweb.com/wp-content/uploads/curso-de-html-y-css-gratuito.png" width="60">  **HTML5 & CSS3**
 
-#### 🛠️ DataBases
+#### 💾 DataBases
 * **SQL** (MySQL, PostgreSQL)
 
 
