@@ -9,6 +9,8 @@ I am passionate about programming and creating efficient solutions. Currently, I
 
 The main objective is to apply the acquired knowledge to build solid and innovative projects.
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 #### 🛠️ My Tech Stack (Skills)
 
 These are the technologies, languages, and tools I have learned and work with regularly:
@@ -20,4 +22,4 @@ These are the technologies, languages, and tools I have learned and work with re
 * **SQL** (MySQL, PostgreSQL)
 
 
-Thanks for stopping by! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="20"> 
+Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
