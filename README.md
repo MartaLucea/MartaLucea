@@ -5,7 +5,7 @@
 -->
 ### 🎓 Web Application Development Student (DAWe) at ITB Barcelona.
 
-I am passionate about programming and creating efficient solutions. Currently, I'm studing in the course DAWe in the Institut tecnològic of Barcelona.
+I am passionate about programming and creating efficient solutions. Currently, I'm studing in the course DAWe in the Institut Tecnològic de Barcelona .
 
 The main objective is to apply the acquired knowledge to build solid and innovative projects.
 
