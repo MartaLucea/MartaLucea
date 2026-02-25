@@ -51,6 +51,7 @@ The board is built with brick emojis, scattered rocks, three hidden Santa Clause
 - Hitting rocks or going out of bounds costs lives — Santa Clauses restore them
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/MartaLucea/0485-a31-el-robot-de-nadal-MartaLucea)
 
 ---
 
