@@ -55,13 +55,14 @@ The board is built with brick emojis, scattered rocks, three hidden Santa Clause
 ---
 
 #### 🎵 Frecuencia Prohibida — Music & Festivals Portal
-> Frontend web project developed in **HTML5 & CSS3**
+> Basic frontend project developed in **HTML5 & CSS3**
 
-A music and festivals portal featuring multiple sections: featured festival, latest releases, top artists, top 10 most listened songs, and promotions.
+A simple music and festivals portal built as a first web project to practice HTML5 structure and CSS3 styling.
+The content is mostly placeholder text and images, as the focus was on learning proper web structure.
 
-- Multi-page structure with navigation (Home, Festivals, Detail, Sign Up)
-- Semantic HTML5 with proper use of `header`, `main`, `section`, `aside`, `footer`
-- Fully structured layout built from scratch as a first web project
+- Multi-page layout with navigation (Home, Festivals, Detail, Sign Up)
+- Semantic HTML5 with `header`, `main`, `section`, `aside` and `footer`
+- First hands-on project building a complete webpage from scratch
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -101,7 +102,7 @@ Two UML diagram exercises covering real-world systems:
   <a href="mailto:mlucea07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/marta-lucea-a6b59b3b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MartaLucea" target="_blank">
