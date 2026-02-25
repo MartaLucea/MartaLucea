@@ -1,25 +1,104 @@
-## Hi, I'm Marta Lucea <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" />
+<h1 align="center">Hi there, I'm Marta Lucea <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /></h1>
 
-<!--
-**MartaLucea/MartaLucea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-### 🎓 Web Application Development Student (DAWe) at ITB Barcelona.
+---
 
-I am passionate about programming and creating efficient solutions. Currently, I'm studing in the course DAWe in the Institut Tecnològic de Barcelona .
+### 🎓 Web Application Development Student (DAWe) at ITB Barcelona
 
-The main objective is to apply the acquired knowledge to build solid and innovative projects.
+I'm passionate about programming and building efficient, innovative solutions.
+Currently studying **DAWe** at the *Institut Tecnològic de Barcelona*, where I apply
+everything I learn to create solid and meaningful projects.
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+---
 
-#### 🛠️ My Tech Stack (Skills)
+### 🛠️ Tech Stack
 
-These are the technologies, languages, and tools I have learned and work with regularly:
-* <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="15"> **Kotlin** - Main languaje in the course
-* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" width="20">  **Python**
-* <img src="https://diccionarioweb.com/wp-content/uploads/curso-de-html-y-css-gratuito.png" width="60">  **HTML5 & CSS3**
+**Languages**
 
-#### 💾 DataBases
-* **SQL** (MySQL, PostgreSQL)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+**Databases**
 
-Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="25" height="25" />
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+---
+
+### 🚀 Projects
+
+Here are some of the projects I've built during my studies:
+
+---
+
+#### 🤖 Wall-E Maze Game
+> Console game developed in **Kotlin**
+
+A terminal-based maze game where you control **Wall-E**, a robot navigating a 2D grid.
+The board is built with brick emojis, scattered rocks, three hidden Santa Clauses 🎅 and a portal 🌀.
+
+- Move Wall-E using terminal commands and manage speed
+- Collect all 3 Santa Clauses before reaching the exit portal
+- Hitting rocks or going out of bounds costs lives — Santa Clauses restore them
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
+
+---
+
+#### 🎵 Frecuencia Prohibida — Music & Festivals Portal
+> Frontend web project developed in **HTML5 & CSS3**
+
+A music and festivals portal featuring multiple sections: featured festival, latest releases, top artists, top 10 most listened songs, and promotions.
+
+- Multi-page structure with navigation (Home, Festivals, Detail, Sign Up)
+- Semantic HTML5 with proper use of `header`, `main`, `section`, `aside`, `footer`
+- Fully structured layout built from scratch as a first web project
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+
+---
+
+#### 📊 UML Diagrams — AirCnc & Order Management
+> UML design project for the **Development Environments** module
+
+Two UML diagram exercises covering real-world systems:
+
+**AirCnc** — Short-term rental platform (inspired by Airbnb):
+- Use case diagrams for three roles: Traveller, Host and Administrator
+- Covers booking flow, payments, reviews and incident management
+
+**Order Lifecycle** — Restaurant order management app:
+- Sequence diagrams for three roles: Customer, Chef and Delivery person
+- Models the full order cycle from selection to delivery notification
+
+![UML](https://img.shields.io/badge/UML-Diagrams-blue?style=flat)
+
+---
+
+### 📬 Contact
+
+<p>
+  <a href="mailto:mlucea07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MartaLucea" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="25" height="25" /></p>
