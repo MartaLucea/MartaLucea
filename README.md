@@ -85,6 +85,16 @@ Two UML diagram exercises covering real-world systems:
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-topaz-chi-96.vercel.app/api?username=MartaLucea&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <br>
+  <img src="https://github-readme-stats-topaz-chi-96.vercel.app/api/top-langs/?username=MartaLucea&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
 ### 📬 Contact
 
 <p>
