@@ -101,7 +101,7 @@ Two UML diagram exercises covering real-world systems:
   <a href="mailto:mlucea07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/marta-lucea-a6b59b3b3/" target="_blank">
+  <a href="www.linkedin.com/in/martalucea" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/MartaLucea" target="_blank">
