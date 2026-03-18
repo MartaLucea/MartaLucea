@@ -17,6 +17,7 @@ everything I learn to create solid and meaningful projects.
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -24,6 +25,7 @@ everything I learn to create solid and meaningful projects.
 
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Tools**
 
@@ -40,18 +42,41 @@ Here are some of the projects I've built during my studies:
 
 ---
 
-#### 🤖 Wall-E Maze Game
-> Console game developed in **Kotlin**
+#### 🐾 Pokémon CRUD — Local & Remote Database Manager
+> MVC project developed in **Kotlin** with **SQLite** and **Supabase** · *Pair project*
 
-A terminal-based maze game where you control **Wall-E**, a robot navigating a 2D grid.
-The board is built with brick emojis, scattered rocks, three hidden Santa Clauses 🎅 and a portal 🌀.
+A full-stack console application built following a layered MVC architecture that manages Pokémon data across both a local SQLite database and a remote Supabase instance.
 
-- Move Wall-E using terminal commands and manage speed
-- Collect all 3 Santa Clauses before reaching the exit portal
-- Hitting rocks or going out of bounds costs lives — Santa Clauses restore them
+- Full CRUD operations through an 8-option interactive menu: view, sort, search, add, edit, delete, export and more
+- Search results exportable to text or binary files; data importable from external files
+- Remote-first logic: works with Supabase by default, falls back to local SQLite if offline *(Extra 2)*
+- Automatic sync between local and remote databases to keep data consistent across both sources
+- JavaFX graphical interface added on top of the console version *(Extra 1)*
+- Branched as `main-supabase` to keep the remote implementation isolated from the original codebase
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/MartaLucea/0485-a31-el-robot-de-nadal-MartaLucea)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/MartaLucea)
+
+---
+
+#### ⚔️ Battle Simulator Dashboard — DOM & Events
+> Frontend project developed in **JavaScript**, **HTML5** and **CSS3**
+
+An interactive combat simulator dashboard built as the fifth phase of an evolving JavaScript project. Transitions the game from console-based execution to a fully event-driven browser interface.
+
+- Hero creation form using `<input>` and `<select>` with `submit` event handling — replaces previous `prompt`-based input
+- Dynamic horde rendering with `forEach`, displaying each enemy's name and health bar in the DOM in real time
+- Attack and Potion buttons with state control: attack disables on victory, potion only active when the hero has one available
+- Visual feedback with CSS classes: `.viva` (green health), `.critica` (red + blinking animation when HP < 20), `.mort` (grey/faded on defeat)
+- DOM updated on every game state change — no page reloads
+- Game logic (damage calculation, turn resolution, victory check) kept strictly separate from DOM manipulation code
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/MartaLucea)
 
 ---
 
@@ -67,23 +92,6 @@ The content is mostly placeholder text and images, as the focus was on learning 
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-
----
-
-#### 📊 UML Diagrams — AirCnc & Order Management
-> UML design project for the **Development Environments** module
-
-Two UML diagram exercises covering real-world systems:
-
-**AirCnc** — Short-term rental platform (inspired by Airbnb):
-- Use case diagrams for three roles: Traveller, Host and Administrator
-- Covers booking flow, payments, reviews and incident management
-
-**Order Lifecycle** — Restaurant order management app:
-- Sequence diagrams for three roles: Customer, Chef and Delivery person
-- Models the full order cycle from selection to delivery notification
-
-![UML](https://img.shields.io/badge/UML-Diagrams-blue?style=flat)
 
 ---
 
