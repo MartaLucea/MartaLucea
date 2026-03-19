@@ -95,14 +95,6 @@ The content is mostly placeholder text and images, as the focus was on learning 
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-topaz-chi-96.vercel.app/api?username=MartaLucea&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
 ### 📬 Contact
 
 <p>
