@@ -76,7 +76,7 @@ An interactive combat simulator dashboard built as the fifth phase of an evolvin
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)](https://github.com/MartaLucea)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github)]([https://github.com/MartaLucea](https://github.com/MartaLucea/-Battle-Simulator-Dashboard-DOM-Events.git))
 
 ---
 
